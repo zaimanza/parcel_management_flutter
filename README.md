@@ -2,6 +2,8 @@
 
 This is an application that is used to manage parcels using Flutter.
 
+Do contact me for code access.
+
 ![ic_launcher](https://user-images.githubusercontent.com/36519974/170852308-ac6e17e0-a5d2-4536-aaea-e0a21c36d676.png)
 
 
